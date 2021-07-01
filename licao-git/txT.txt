@@ -1,0 +1,4 @@
+1: enquanto o git add -A serve para adicionar as mudanças da branch na staging area,
+   o git add serve para adicionar um ou mais arquivos alterados para uma staging area.
+
+2: usando o comando git reset, podemos resetar o repositorio para o seu ultimo commit desfazendo o atual.
